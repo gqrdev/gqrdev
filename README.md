@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Facundo Q. Rivoir
 
-<!--
-**gqrdev/gqrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Senior** | Infraestructura | APIs REST | Node.js · Python · FastAPI · Laravel | Chatbots IA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+Desarrollador backend con foco en infraestructura y APIs REST usando **Node.js/Express**, **Python/FastAPI** y **Laravel**.  
+Experiencia complementaria en frontend y desarrollo de **chatbots con IA** para web y mobile.
+
+---
+
+### 🛠️ Tecnologías
+
+- **Backend:** Node.js, Express, Python, FastAPI, **Laravel**
+- **Infraestructura:** Docker, Nginx, Linux, CI/CD, AWS, monitoreo y automatización
+- **Frontend:** Vue.js (con Vite.js)
+- **Bases de datos:** MySQL, PostgreSQL
+- **Otros:** APIs, chatbots, metodologías ágiles
+
+---
+
+### 🌐 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-facundogqr-blue?logo=linkedin)](https://www.linkedin.com/in/facundogqr)
+[![Email](https://img.shields.io/badge/Email-gqrdev@gmail.com-red?logo=gmail)](mailto:gqrdev@gmail.com)
+
+---
