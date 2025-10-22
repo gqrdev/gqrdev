@@ -1,24 +1,13 @@
 # 👋 Facundo Q. Rivoir
 
-**Backend Senior** | Infraestructura | APIs REST | Node.js · Python · FastAPI · Laravel | Chatbots IA
-
----
-
-### 🚀 Sobre mí
-
-Desarrollador backend con foco en infraestructura y APIs REST usando **Node.js/Express**, **Python/FastAPI** y **Laravel**.  
-Experiencia complementaria en frontend y desarrollo de **chatbots con IA** para web y mobile.
-
+Sr. Backend Developer con enfoque en APIs REST | Laravel | Automatización de infraestructura
 ---
 
 ### 🛠️ Tecnologías
-
-- **Backend:** Node.js, Express, Python, FastAPI, **Laravel**
-- **Infraestructura:** Docker, Nginx, Linux, CI/CD, AWS, monitoreo y automatización
-- **Frontend:** Vue.js (con Vite.js)
-- **Bases de datos:** MySQL, PostgreSQL
-- **Otros:** APIs, chatbots, metodologías ágiles
-
+- **Lenguajes:** PHP · Python
+- **Frameworks & Librerías:** Laravel · Express.js · FastAPI · Node.js
+- **Bases de datos:** MySQL · PostgreSQL
+- **DevOps / Infraestructura:** Docker · Linux · AWS · CI/CD · Monitoreo · Automatización
 ---
 
 ### 🌐 Contacto
